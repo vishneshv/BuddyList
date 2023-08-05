@@ -1,0 +1,60 @@
+.logop {
+  height: 80%;
+  width: 3%;
+  padding-left: 12px;
+  padding-right: 88%;
+}
+
+.contactpng {
+  height: 22px;
+  background-color: aliceblue;
+}
+#abc {
+  padding-left: 12px;
+  color: aliceblue;
+  font-size: 25px;
+  padding-top: 2px;
+}
+header {
+  background-color: rgb(64, 1, 123);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 9%;
+}
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: rgb(181, 181, 180);
+}
+.img2 {
+  height: 60px;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+h2 {
+  padding-left: 10%;
+  font-size: medium;
+  width: 100%;
+}
+#er {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  height: 13%;
+  align-items: center;
+  border: 2px solid rgb(181, 180, 180);
+  border-radius: 6px;
+  padding-right: 20px;
+}
+
+#image,t1{
+  flex: 1;
+}
+#dots{
+  margin-left: auto;
+}
+.aboutid {
+  padding-left: 10%;
+  width: 100%;
+}
